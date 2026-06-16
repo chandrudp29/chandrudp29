@@ -47,19 +47,6 @@
 
 ---
 
-## 📊 Contribution Overview
-
-| Area | Status |
-|---|---|
-| AI Interpretability | ✅ Active |
-| LLM Production Patterns | ✅ Active |
-| AI Products | 🔄 In progress |
-| Foundations | 🔄 In progress |
-| AI Curriculum | 🔄 In progress |
-| Research | 📋 Planned |
-
----
-
 ## 📚 Currently reading / recently read
 
 **AI & Research**
@@ -84,8 +71,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-chandrudp29-black?style=flat-square&logo=github)](https://github.com/chandrudp29)
 [![Newsletter](https://img.shields.io/badge/Newsletter-GenAI%20in%20Production-orange?style=flat-square)](https://substack.com/@chandrashekar)
 [![Email](https://img.shields.io/badge/Email-chandrudp29@gmail.com-red?style=flat-square&logo=gmail)](mailto:chandrudp29@gmail.com)
-
-📍 Bengaluru, India · Open to relocation
 
 ---
 
