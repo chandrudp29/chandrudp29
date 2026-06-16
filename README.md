@@ -35,19 +35,6 @@
 
 ---
 
-## 🕵🏻‍♂️ What I've previously shipped
-
-| Where | What | Impact |
-|---|---|---|
-| **Fractal Analytics** (2025–now) | Intelligent RCA Agent — Claude API + Azure Databricks, multi-step reasoning, HITL escalation | 80% triage reduction · org-wide rollout · senior leadership recognition |
-| **Fractal Analytics** | Agentic GenAI pipelines for P&G Transportation & Warehousing Data Product (RAG + Vector Search) | Enterprise-scale semantic analytics |
-| **Dentsu Global Services** (2022–2025) | Snowflake Cortex AI search agents + LangChain RAG | 40% faster insight retrieval for 100+ internal users |
-| **Dentsu** | Python + Azure Functions → automated PowerPoint reporting pipeline | 20+ hours/week saved |
-| **Merkle Inspire** (2021–2022) | ML pipeline for phishing domain detection — REST API integration + PySpark | Real-time classification in production |
-| **TCS** (2017–2019) | Hive/Spark ETL + dimensional data models for high-throughput assessment systems | 30% query speedup |
-
----
-
 ## 💡 What I'm currently thinking about
 
 - **The LLM observability gap**: LLMs are in production everywhere. Engineers have nothing equivalent to what researchers have in TransformerLens. No production-grade "Sentry for model reasoning." That's the problem I keep coming back to.
@@ -62,30 +49,14 @@
 
 ## 📊 Contribution Overview
 
-| Area | What | Status |
-|---|---|---|
-| **AI Interpretability** | TransformerLens PRs — architecture adapter unit tests | ✅ 4 merged · 1 open · more coming |
-| **LLM Production Patterns** | enterprise-rag-patterns — published articles + code | ✅ 2 articles published |
-| **AI Products** | ComplianceShield — PII detection + LLM compliance tool | ✅ In development |
-| **Enterprise AI** | RCA Agent (Fractal) — Claude API + Databricks | ✅ Shipped · org-wide |
-| **Foundations** | nanoGPT · micrograd · minbpe | 🔄 In progress |
-| **AI Curriculum** | ai-engineering-from-scratch contributions | 🔄 In progress |
-| **Next: Research** | Replicate an Anthropic/DeepMind paper (mech interp or RLHF) | 📋 Planned |
-| **Next: OSS** | Mistral · Falcon · DeepSeek V3 adapter tests for TransformerLens | 📋 Planned |
-| **Next: Product** | LLM observability tool — productise interpretability for engineers | 📋 Planned |
-
----
-
-## 🛠 Tech Stack
-
-```
-LLM / AI        Claude API · Databricks GenAI · OpenAI · LangChain · RAG · Vector Search
-                TransformerLens · PyTorch · Prompt Engineering · HITL
-Data            PySpark · Spark SQL · Snowflake · Azure Databricks · Airflow · Delta Lake
-                Azure Data Factory · Hive · Kafka · dbt
-Infrastructure  Azure · AWS S3 · Docker · CI/CD · Git · Jenkins · GitHub Actions
-Languages       Python · SQL
-```
+| Area | Status |
+|---|---|
+| AI Interpretability | ✅ Active |
+| LLM Production Patterns | ✅ Active |
+| AI Products | 🔄 In progress |
+| Foundations | 🔄 In progress |
+| AI Curriculum | 🔄 In progress |
+| Research | 📋 Planned |
 
 ---
 
@@ -115,16 +86,6 @@ Languages       Python · SQL
 [![Email](https://img.shields.io/badge/Email-chandrudp29@gmail.com-red?style=flat-square&logo=gmail)](mailto:chandrudp29@gmail.com)
 
 📍 Bengaluru, India · Open to relocation
-
----
-
-## 🏆 Certifications
-
-- Databricks Certified **Generative AI Engineer Associate**
-- Databricks Certification in Big Data
-- Snowflake Certification
-- Certified Salesforce B2C Commerce Developer
-- SQL and Relational Databases 101 — IBM
 
 ---
 
